@@ -3,7 +3,7 @@
 Engineering design-only project giving detailed specification report for a proposed firearm chronograph. Chronographs are used to determine the muzzle velocity of firearm ammunintion. They are used by hunting hobbyists and competitors to ensure a firearm in operating safely, effciecntly and within legal limits.  The full details can be seen in DesignReport.pdf. 
 
 
-# Propsoed Approach
+# Proposed Approach
 
 The approach proposed using two laser diodes-sennor pairs based on the end of the firearm. The muzzle velocity could be determined by the difference in time between each beam being broken.
 
